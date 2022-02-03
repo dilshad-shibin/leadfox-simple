@@ -657,3 +657,8 @@ img {
 .hide{
     display: none;
 }
+
+.modal-footer{
+    margin-top: 20px;
+    border-top: none;
+}
